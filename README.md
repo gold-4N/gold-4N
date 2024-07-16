@@ -61,4 +61,8 @@ mitigate risks.
 [![ ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/md-asadujjaman-noor-2124a7113/)
 [![ ](https://img.shields.io/badge/Contact-0077B5?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:asadujjaman1122@gmail.com)
 
+<br>
 
+![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=gold-4N&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gold-4N&hide=TeX&layout=compact)
