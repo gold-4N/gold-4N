@@ -15,6 +15,7 @@
   <a href="https://github.com/gold-4N"> <img src="https://img.shields.io/badge/VAPT-lightblue.svg?style=for-the-badge" alt="gold-4N" /> </a>
   <a href="https://github.com/gold-4N"> <img src="https://img.shields.io/badge/Reverse Engineering-lightblue.svg?style=for-the-badge" alt="gold-4N" /> </a>
   <a href="https://github.com/gold-4N"> <img src="https://img.shields.io/badge/Malware Analysis-lightblue.svg?style=for-the-badge" alt="gold-4N" /> </a>
+  <a href="https://github.com/gold-4N"> <img src="https://img.shields.io/badge/IT Audit-lightblue.svg?style=for-the-badge" alt="gold-4N" /> </a>
   
 </p>
 
@@ -39,6 +40,8 @@ mitigate risks.
 
 
 ## Professional Certifications 
+- ISO/IEC 27001:2022 Lead Auditor, Accreditation Service for Certifying Bodies (ASCB)
+- ISO/IEC 27001:2022 and ISO 19011:2018, Sustainable Management System Inc.
 - Certified Ethical Hacker Certification (CEH) Practical V12, EC-Council
 - C)PTE: Certified Penetration Testing Engineer, Mile2
 - Certified Appsec Practitioner (CAP), The SecOps Group
@@ -49,7 +52,7 @@ mitigate risks.
 <hr>
 
 ## Honors & Awards
-
+- Champion - BCS ICT FEST 2025! CTF
 - Champion - Cyber Crawler CTF, Organized, IITSEC, IIT-DU
 - Runner-Up - University Cyber Drill - 2022 , BGD e-GOV CIRT
 - 2nd Runner - Up - DIUCSC-01 CTF
