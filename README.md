@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Asadujjaman Noor</h1>
 <h3 align="center">Cyber Security Professional </h3>
-echo "<?php\n\$api_key = CB-Batch18 'CBCTF{git_commit_leak}';\n?>" > config.php
+
 <br>
 
 
